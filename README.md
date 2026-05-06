@@ -1,7 +1,7 @@
 # Telecom Support Chatbot (HTML)
 
 ## Overview
-This project is a Telecom Support Chatbot designed to automate customer service interactions using ClickUp automation and AI agents.
+This project is a Telecom Support Chatbot designed to automate customer service interactions using HTML (automation and AI agents).
 
 The chatbot handles common telecom issues such as:
 - Mobile data and connectivity problems
@@ -10,7 +10,7 @@ The chatbot handles common telecom issues such as:
 - SIM-related concerns
 - Wi-Fi and home internet troubleshooting
 
-It operates داخل ClickUp by responding to user mentions and triggering automated workflows.
+It operates through HTML by responding to user mentions and triggering automated workflows.
 
 ---
 
@@ -24,7 +24,7 @@ It operates داخل ClickUp by responding to user mentions and triggering autom
 ---
 
 ## How It Works
-1. User mentions chatbot داخل ClickUp
+1. User mentions chatbot
 2. Chatbot processes request
 3. Identifies issue type
 4. Provides solution steps
@@ -33,12 +33,12 @@ It operates داخل ClickUp by responding to user mentions and triggering autom
 ---
 
 ## Workflow Architecture
-User Input → ClickUp Interface → Chatbot Logic → Knowledge Base → Response / Task Creation
+User Input → HTML Interface → Chatbot Logic → Knowledge Base → Response / Ticket Creation
 
 ---
 
 ## Live Demo
-⚠️ This chatbot is hosted داخل ClickUp and is private.
+⚠️ This chatbot is hosted in HTML frontend.
 
 Access can be provided upon request.
 
@@ -55,8 +55,7 @@ Access can be provided upon request.
 ---
 
 ## Technologies Used
-- ClickUp (Automation & Workspace)
-- ClickUp AI Agents
+- HTML
 - Workflow-based chatbot logic
 
 ---
