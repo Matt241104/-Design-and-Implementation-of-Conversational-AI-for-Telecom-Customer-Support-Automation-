@@ -1,4 +1,4 @@
-# Telecom Support Chatbot (ClickUp)
+# Telecom Support Chatbot (HTML)
 
 ## Overview
 This project is a Telecom Support Chatbot designed to automate customer service interactions using ClickUp automation and AI agents.
